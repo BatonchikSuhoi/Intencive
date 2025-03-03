@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60315f35-52bc-432c-a76d-6ad6792f8610" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/aston/VALCHOK_GA/task1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/aston/VALCHOK_GA/task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/aston/VALCHOK_GA/task2/File1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/aston/VALCHOK_GA/task2/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/aston/VALCHOK_GA/task2/FileToRead.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/aston/VALCHOK_GA/task2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -35,39 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JavaProjects/Intencive/src/main/java/ru/aston/VALCHOK_GA/task1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JavaProjects/Intencive/src/main/java/ru/aston/VALCHOK_GA/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/JavaProjects/Homework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/JavaProjects/Intencive/src/main/java/ru/aston/VALCHOK_GA/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JavaProjects\Intencive\src\main\java\ru\aston\VALCHOK_GA\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task1.groupWords">
-    <configuration name="Task1.between10and20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aston.VALCHOK_GA.task2.Task2" />
       <module name="Intencive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.aston.VALCHOK_GA.task1.*" />
+          <option name="PATTERN" value="ru.aston.VALCHOK_GA.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.aston.VALCHOK_GA.task1" />
-      <option name="MAIN_CLASS_NAME" value="ru.aston.VALCHOK_GA.task1.Task1" />
-      <option name="METHOD_NAME" value="between10and20" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="JUnit.Task1.groupWords" />
         <item itemvalue="JUnit.Task1.twoStreamsWithSquareSum" />
         <item itemvalue="JUnit.Task1.threeStreamsByFive" />
         <item itemvalue="JUnit.Task1.groupDates" />
-        <item itemvalue="JUnit.Task1.between10and20" />
       </list>
     </recent_temporary>
   </component>
@@ -155,11 +152,32 @@
       <option name="presentableId" value="Default" />
       <updated>1740661447578</updated>
       <workItem from="1740661448612" duration="21001000" />
-      <workItem from="1740744998235" duration="635000" />
+      <workItem from="1740744998235" duration="2961000" />
+      <workItem from="1741003112940" duration="13914000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson 5 Homework">
+      <option name="closed" value="true" />
+      <created>1740750555212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740750555212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 5 Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5 Homework" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="filePath" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
